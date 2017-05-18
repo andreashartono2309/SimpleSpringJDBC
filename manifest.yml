@@ -1,0 +1,7 @@
+---
+applications:
+- name: SimpleSpringJDBC
+  memory: 1G
+  random-route: true
+  path: target/SimpleSpringJDBC-0.0.1-SNAPSHOT.war
+
